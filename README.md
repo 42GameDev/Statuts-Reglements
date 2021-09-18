@@ -4,13 +4,13 @@
 
 ### Article I : Constitution et dénomination
 
-Il est créé entre les adhérents aux présents statuts, une structure rattachée au Bureau des Étudiants de 42, <br> ayant pour dénomination : 42GameDev.
+Il est créé entre les adhérents aux présents statuts, une structure rattachée au Bureau des Étudiants de [42](https://42.fr/), <br> ayant pour dénomination : 42GameDev.
 
 ### Article II : Objet
 
 Cette association a pour but de : <br>
 - Fédérer l'ensemble des activités d'animation et des manifestations consacrées à la création et culture de jeux vidéos à 42.
-- Accueillir et aider les étudiants de 42 interessés par le monde du jeu vidéo.
+- Accueillir et aider les étudiants de [42](https://42.fr/) interessés par le monde du jeu vidéo.
 
 ### Article III : Moyens d’action
 Ses actions peuvent notamment comprendre, de manière non exhaustive : <br>
@@ -21,7 +21,7 @@ Ses actions peuvent notamment comprendre, de manière non exhaustive : <br>
 - L’organisation de tout autre type de manifestation servant l’objet de l’association.
 
 ### Article IV : Siège social
-Le siège social de l’association est fixé à 42Paris : 96 boulevard Bessières 75017 Paris. <br>
+Le siège social de l’association est fixé à [42Paris](https://42.fr/) : 96 boulevard Bessières 75017 Paris. <br>
 Il peut être transféré sur simple décision du Conseil d’Administration.
 
 ### Article V : Durée
@@ -54,7 +54,7 @@ Afin de développer ses activités en d’autres lieux que son siège social, l�
 
 ### Article X : Pouvoir des Ambassadeurs
 Les personnes chargées de superviser les actions de l'association en dehors du siège social sont nommés « Ambassadeurs » . <br>
-Ils disposent de droits étendus au sein de l’association 42GameDev pour exercer leurs activités : <br>
+Ils disposent de droits étendus au sein de l’association **42GameDev** pour exercer leurs activités : <br>
 -  Ils disposent d’**une voix délibérative** lors d’un Conseil d’Administration.
 -  Ils peuvent recevoir des demandes d’adhésion et en refuser à condition d’informer le Conseil d’Administration et de justifier leur refus.
 -  Ils peuvent recevoir des démissions des membres.
@@ -137,11 +137,75 @@ Générale extraordinaire, convoquée spécialement à cet effet.
 Elle ne peut avoir lieu uniquement en cas d'abandon prolongés de l'association ou demande impérative de 42.
 
 ### Article XVIII : Règlement Intérieur
-Un règlement intérieur, établi par le Conseil d’Administration sur proposition du Bureau,
+Un règlement intérieur, établi par le Conseil d’Administration sur proposition du Conseil,
 détermine le détail d’exécution des présents statuts et fixe les règles qui ont trait à
-l’administration interne de l’association.
+l’administration interne de l’association. <br>
 Son établissement comme sa modification seront nécessairement soumis à l’approbation de
 l’Assemblée Générale.
+
+## REGLEMENT INTERIEUR DE 42GAMEDEV
+
+### Article I : Généralités
+Le présent règlement est un complément des Statuts de l'Association **42GameDev**. <br>
+Il est établi en accord avec les Statuts et ne peut être modifié que dans le respect de ceux-ci. <br>
+[Au règlement de l'association vient s'ajouter celui de 42.](https://signin.intra.42.fr/legal/terms/4)
+
+### Article II : Composition du Bureau
+Le Bureau est composé des même mebres que le Conseil d'Administration. Il est constitué d'un :
+- Président
+- vice-Président
+- Trésorier
+<br>
+Le Conseil d'Administration est composé d'au moins 5 membres, dont les membres du bureau. Des Chargés de Missions peuvent être nommés par le Conseil d'Administration, sur proposition de n'importe quel membre avec l'accord de l'intéressé.
+
+### Article III : Déroulement de l’Assemblée Générale de Passation
+L'Assemblée Générale de Passation est convoquée et se déroule selon l'article 14 des Statuts et dans le respect de l’article 15 de ces mêmes Statuts. En début de réunion est désigné un rapporteur de séance. En fin de séance un nouveau Conseil d'Administration est élu. Il est composé d'au moins 5 membres. Conditions pour être candidat :
+- Etre étudiant inscrit à [42](https://42.fr/),
+- Etre au minimum Cadet (avoir validé sa piscine),
+- Etre majeur,
+- Etre présent ou représenté aux Assemblés Générales.
+
+Si le nombre de candidats est inférieur ou égal à **5**, tous sont automatiquement élus.
+Si le nombre de candidats est supérieur à **5**, un vote a lieu à bulletin secret.
+
+Chaque candidat inscrit alors son nom sur autant de bulletins que de membres présents. Les membres rayent ensuite autant de candidats qu'ils souhaitent, de manière à ce qu'il reste au moins **5** noms. Le secrétaire de séance, ou à défaut toute personne présente désignée par le président, procède ensuite au dépouillage des bulletins. Sont élus les candidats qui obtiennent le nombre de voix le plus élevé. En cas d'égalité la priorité revient, dans l'ordre :
+- Au candidat qui renouvelle sa candidature.
+- Au candidat qui a le plus d'ancienneté dans le Bureau des Etudiants.
+- Au candidat avec le plus d'experience (42 ou dans le monde du jeu vidéo).
+
+Le Conseil d'Administration procède ensuite à l'élection du Bureau. Les candidats aux différents postes officialisent alors leur candidature. Le Conseil d'Administration s'isole et procède au vote, à main levée. En cas d'égalité, les candidats sont départagés selon les critères évoqués ci-dessus. Le Conseil d'Administration annonce alors aux autres membres le résultat du vote.
+Les membres qui souhaitent s'occuper d'une activité particulière proposent leur candidature qui est alors étudiée par le Conseil d'Administration. Un membre du Conseil d'Administration peut être nommé pour ce titre. Une candidature à un titre de  « Responsable d’Activité » peut se faire en dehors du cadre d'une Assemblée Générale de Passation, mais la nomination à ce poste se fait cependant sur accord du Conseil d'Administration.
+
+### Article IV : Adhésion
+L'adhésion à **42GameDev** se fait gratuitement selon les modalités de l'article 7 des Statuts et dans le respect de l’article 8 de ces mêmes Statuts. Elle est effective jusqu'à révocation de ce status, soit par le membre lui-même, soit par le Conseil d'Administration.
+
+### Article V : Modification
+Le présent règlement intérieur peut être modifié à la demande du Conseil d’Administration. Chaque article modifié, ou ajouté, ou supprimé doit être soumis au vote du Conseil d’Administration.
+
+### Article VI : Code de Conduite
+Les engagements suivants s’appliquent à tous les membres de l’association ainsi qu’aux personnes participant aux événements de l’association ou ayant conclu un partenariat avec elle : <br>
+- respecter les personnes présentes, que ce soit physiquement ou virtuellement, dans leurs choix, leurs limites physiques et émotionnelles et leurs points de vue,
+- favoriser un environnement exempt de discrimination, de harcèlement, et de comportement offensant, excluant ou humiliant. Si vous êtes témoin de ce genre de situation, ne définissez pas à la place de la personne si un comportement à son encontre relève de la liste ci-dessus. Tout attitude discriminatoire doit être signalée au bureau qui interviendra si nécessaire,
+- ne pas pratiquer ni encourager d’activités illégales au sein de l’association,
+- veiller à ne pas photographier, ni filmer, ni enregistrer une personne au sein de l’association sans son accord ni l’accord de l’association, ou tout élément reconnaissable (écran d’ordinateur, signes distinctifs comme les tatouages...),
+- respecter les projets des autres membres (ne pas copier, utiliser ou diffuser sans l'authorisation préalable de leurs propriétaires).
+
+### Article VII : Droits et Avantages
+Chaque membre de l’association a le droit :
+- d’être traité sur un pied d’égalité et avec respect,
+- de pouvoir apprendre à son rythme, de poser des questions et demander de l'aide sans crainte de jugement,
+- en cas de question ou de souci personnel, de contacter un membre du Conseil et que cet échange reste confidentiel,
+- pour une personne ayant le statut de membre actif, de prendre une pause dans son engagement dans l’association sans que cela lui soit reproché. Il faut seulement prévenir le bureau ou son équipe en cas d’absence pour des raisons d’organisation,
+- un rôle distinctif sur le [serveur discord officiel](https://discord.gg/MM5mtvjdZf),
+- un accès privilégié au github [42GameDev](https://github.com/42GameDev)
+- un droit de vote à l'Assemblée Générale et à l'assemblée Générale exceptionnelle,
+
+### Article VIII : Devoirs
+Les membres de l’association s’engagent à :
+- respecter les statuts et les règlements de l’association 42GameDev ainsi que le règlement de 42,
+- ne pas porter atteinte à l’association « **42GameDev** » (ni aucune autres associations affiliées à 42) que ce soit en son sein ou à l’extérieur par des actions entraînant un préjudice moral ou matériel à l’association (vol ou dégradation de matériel volontaire, diffamation...),
+- ne pas mener ni revendiquer d’action engageant la responsabilité de l’association et ne pas utiliser son image (logo, nom) ou ses ressources sans l’accord préalable du bureau,
+- signaler à membre du conseil tout comportement jugé discriminatoire, excluant ou dangereux. Il contactera le bureau qui décidera si un avertissement ou une sanction est nécessaire.
 
 Le 18 septembre 2021 à Paris.
 
