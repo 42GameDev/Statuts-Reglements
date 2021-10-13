@@ -209,4 +209,14 @@ Les membres de l’association s’engagent à :
 
 Le 18 septembre 2021 à Paris.
 
-Ces Status et Règlements n'ont pas encore été aprouvés par le BDE de 42.
+Ces Status et Règlements ont été aprouvés par le BDE de 42 le **13 octobre 2021** à Paris.
+
+## Liste des Membres (à ne pas supprimer)
+
+Membres Fondateurs: [Raphaël Bourgeat](https://profile.intra.42.fr/users/rbourgea) (rbourgea), [Lucas Benard](https://profile.intra.42.fr/users/lbenard) (lbenard) et [Mehdi Benjelloun](https://profile.intra.42.fr/users/mbenjell) (mbenjell).
+
+### 2021 / 2022
+
+Bureau: [rbourgea](https://profile.intra.42.fr/users/rbourgea) (Président), [mbenjell](https://profile.intra.42.fr/users/mbenjell) (Vice-Président) et [lbenard](https://profile.intra.42.fr/users/lbenard) (Vice-Président)
+
+Membres: (à définir)
