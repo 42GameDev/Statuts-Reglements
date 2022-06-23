@@ -41,9 +41,9 @@ Ces membres peuvent appartenir à différents groupes de travail : <br>
 ### Article VII : Conditions d’adhésion
 Les conditions d’adhésion sont définies par le règlement intérieur.
 Chaque nouvel adhérent est tenu de prendre connaissance et s’engager à respecter le règlement intérieur, règlements de l'association ainsi que les présents statuts.
-Les membres du Conseil se réserve le droit de refuser toute adhésion sur consultation et approbation du Conseil d’Administration. Les Ambassadeurs peuvent refuser une adhésion informant et justifiant ce coix au Conseil d’Administration également. <br>
+Les membres du Conseil se réserve le droit de refuser toute adhésion sur consultation et approbation du Conseil d’Administration. Les Ambassadeurs peuvent refuser une adhésion informant et justifiant ce choix au Conseil d’Administration également. <br>
 Les mineurs peuvent adhérer à l’association sous réserve d’un accord tacite ou d’une autorisation écrite de leurs représentants légaux. <br>
-Aucune cotisation n'est requise pour rejoindre l'association mais le Conseil d'Administration se réserve le droit de réaliser des appels aux dons non obligatoirs pour financer tout projets ou évènements organisé par l'association.
+Aucune cotisation n'est requise pour rejoindre l'association mais le Conseil d'Administration se réserve le droit de réaliser des appels aux dons non obligatoires pour financer tout projets ou évènements organisé par l'association.
 
 ### Article VIII : Perte de la qualité de membre
 La qualité de membre se perd par décès, démission ou radiation pour non-respect des présents statuts ou du règlement intérieur. <br>
@@ -66,7 +66,7 @@ La présidence du Conseil d'Administration est composée obligatoirement : <br>
 - d'un **vice-Président**,
 - optionnellement d'un **trésorier**
 Le Conseil pourra procéder, si nécessaire, à un vote pour élire de nouveaux membres à la présidence au maximum une fois par an, sauf décision exceptionnelle. <br>
-Ne peuve se présenter uniquement : les membres ayant une ancienneté d'au moins 1 an au sein du Conseil d'Administration.
+Ne peuvent se présenter uniquement : les membres ayant une ancienneté d'au moins 1 an au sein du Conseil d'Administration.
 Ils disposent d'**une voix délibératives** lors d’un Conseil d’Administration. <br>
 Le président dirige le Conseil d’Administration, en cas d'absence, le vice-président est chargé de le représenté et peut voter à sa place après l'avoir consulté personnellement. <br>
 Le trésorier tient les comptes de l’association. Il effectue tous paiements et perçoit toutes recettes sous la surveillance du président ou vice-président. Il tient une comptabilité écrite de toutes les actions économiques de l'association.
@@ -151,7 +151,7 @@ Il est établi en accord avec les Statuts et ne peut être modifié que dans le 
 [Au règlement de l'association vient s'ajouter celui de 42.](https://signin.intra.42.fr/legal/terms/4)
 
 ### Article II : Composition du Bureau
-Le Bureau est composé des même mebres que le Conseil d'Administration. Il est constitué d'un :
+Le Bureau est composé des même membres que le Conseil d'Administration. Il est constitué d'un :
 - Président
 - vice-Président
 - Trésorier
