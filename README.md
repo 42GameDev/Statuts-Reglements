@@ -218,3 +218,7 @@ Membres Fondateurs: [Raphaël Bourgeat](https://profile.intra.42.fr/users/rbourg
 ### 2021 / 2022
 
 Bureau: [rbourgea](https://profile.intra.42.fr/users/rbourgea) (Président), [mbenjell](https://profile.intra.42.fr/users/mbenjell) (Vice-Président) et [lbenard](https://profile.intra.42.fr/users/lbenard) (Vice-Président), [gboucett](https://profile.intra.42.fr/users/gboucett) (Secrétaire)
+
+### 2023
+
+Bureau: [rbourgea](https://profile.intra.42.fr/users/rbourgea) (Président), [mbenjell](https://profile.intra.42.fr/users/mbenjell) (Vice-Président) et [lbenard](https://profile.intra.42.fr/users/lbenard) (Vice-Président), [gboucett](https://profile.intra.42.fr/users/gboucett) (Secrétaire), [jdider](https://profile.intra.42.fr/users/jdidier) (Responsable Pédagogie), [gbonnard](https://profile.intra.42.fr/users/gbonnard) (Community Manager), [mgessa](https://profile.intra.42.fr/users/mgessa) (Responsable Technique)
