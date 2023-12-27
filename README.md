@@ -222,3 +222,9 @@ Bureau: [rbourgea](https://profile.intra.42.fr/users/rbourgea) (Président), [mb
 ### 2023
 
 Bureau: [rbourgea](https://profile.intra.42.fr/users/rbourgea) (Président), [mbenjell](https://profile.intra.42.fr/users/mbenjell) (Vice-Président) et [lbenard](https://profile.intra.42.fr/users/lbenard) (Vice-Président), [gboucett](https://profile.intra.42.fr/users/gboucett) (Secrétaire), [jdider](https://profile.intra.42.fr/users/jdidier) (Responsable Pédagogie), [gbonnard](https://profile.intra.42.fr/users/gbonnard) (Community Manager), [mgessa](https://profile.intra.42.fr/users/mgessa) (Responsable Technique)
+
+### 2024
+
+Bureau: [mbenjell](https://profile.intra.42.fr/users/mbenjell) (Président), [lbenard](https://profile.intra.42.fr/users/lbenard) (Vice-Président), [gboucett](https://profile.intra.42.fr/users/gboucett) (Responsable Pédago et Lab), [gbonnard](https://profile.intra.42.fr/users/gbonnard) (Responsable Communication), [mgessa](https://profile.intra.42.fr/users/mgessa) (Responsable Évenementiel et Partenariats)
+
+
